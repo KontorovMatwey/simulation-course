@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "WinForms.DataVisualization/1.10.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0-windows7.0/WinForms.DataVisualization.Utilities.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/net6.0-windows7.0/WinForms.DataVisualization.dll": {
+            "related": ".pdb;.Utilities.pdb;.Utilities.xml;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0-windows7.0/WinForms.DataVisualization.Utilities.dll": {
+            "related": ".pdb;.xml"
+          },
+          "lib/net6.0-windows7.0/WinForms.DataVisualization.dll": {
+            "related": ".pdb;.Utilities.pdb;.Utilities.xml;.xml"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinForms.DataVisualization/1.10.0": {
+      "sha512": "QKFQUf6xnsseiRsWfIeKvbWRJWvOKOvkoec/pWxEjwYrr4Vix4xmAWmvTpJGxoeWRXOzV7Pprm5SCFqzXzBA4g==",
+      "type": "package",
+      "path": "winforms.datavisualization/1.10.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "NuGetReadme.md",
+        "lib/net6.0-windows7.0/Design/WinForms/Server/WinForms.DataVisualization.Designer.ClientServerProtocol.dll",
+        "lib/net6.0-windows7.0/Design/WinForms/Server/WinForms.DataVisualization.Designer.Server.dll",
+        "lib/net6.0-windows7.0/Design/WinForms/Server/WinForms.DataVisualization.Utilities.dll",
+        "lib/net6.0-windows7.0/Design/WinForms/WinForms.DataVisualization.Designer.Client.dll",
+        "lib/net6.0-windows7.0/Design/WinForms/WinForms.DataVisualization.Designer.ClientServerProtocol.dll",
+        "lib/net6.0-windows7.0/Design/WinForms/WinForms.DataVisualization.Utilities.dll",
+        "lib/net6.0-windows7.0/WinForms.DataVisualization.Utilities.dll",
+        "lib/net6.0-windows7.0/WinForms.DataVisualization.Utilities.pdb",
+        "lib/net6.0-windows7.0/WinForms.DataVisualization.Utilities.xml",
+        "lib/net6.0-windows7.0/WinForms.DataVisualization.dll",
+        "lib/net6.0-windows7.0/WinForms.DataVisualization.pdb",
+        "lib/net6.0-windows7.0/WinForms.DataVisualization.xml",
+        "lib/net9.0-windows7.0/Design/WinForms/Server/WinForms.DataVisualization.Designer.ClientServerProtocol.dll",
+        "lib/net9.0-windows7.0/Design/WinForms/Server/WinForms.DataVisualization.Designer.Server.dll",
+        "lib/net9.0-windows7.0/Design/WinForms/Server/WinForms.DataVisualization.Utilities.dll",
+        "lib/net9.0-windows7.0/Design/WinForms/WinForms.DataVisualization.Designer.Client.dll",
+        "lib/net9.0-windows7.0/Design/WinForms/WinForms.DataVisualization.Designer.ClientServerProtocol.dll",
+        "lib/net9.0-windows7.0/Design/WinForms/WinForms.DataVisualization.Utilities.dll",
+        "lib/net9.0-windows7.0/WinForms.DataVisualization.Utilities.dll",
+        "lib/net9.0-windows7.0/WinForms.DataVisualization.Utilities.pdb",
+        "lib/net9.0-windows7.0/WinForms.DataVisualization.Utilities.xml",
+        "lib/net9.0-windows7.0/WinForms.DataVisualization.dll",
+        "lib/net9.0-windows7.0/WinForms.DataVisualization.pdb",
+        "lib/net9.0-windows7.0/WinForms.DataVisualization.xml",
+        "winforms.datavisualization.1.10.0.nupkg.sha512",
+        "winforms.datavisualization.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "WinForms.DataVisualization >= 1.10.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\st22.068\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\st22.068\\Downloads\\simulation-labs-main\\lab1.csproj",
+      "projectName": "lab1",
+      "projectPath": "C:\\Users\\st22.068\\Downloads\\simulation-labs-main\\lab1.csproj",
+      "packagesPath": "C:\\Users\\st22.068\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\st22.068\\Downloads\\simulation-labs-main\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "H:\\AppData\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "WinForms.DataVisualization": {
+            "target": "Package",
+            "version": "[1.10.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.310/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
