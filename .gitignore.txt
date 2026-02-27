@@ -1,0 +1,12 @@
+bin
+obj
+.vs
+.user
+.suo
+.log
+.exe
+.dll
+.pdb
+.cache
+.idea
+.pssproj.user
