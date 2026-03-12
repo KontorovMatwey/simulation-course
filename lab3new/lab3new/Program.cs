@@ -1,5 +1,3 @@
-﻿// Program.cs
-// Обновлённая версия: треугольники для деревьев, замедленный рост, старение с риском смерти, уменьшенные ползунки UI
 using System;
 using System.Collections.Generic;
 using System.Drawing;
@@ -638,4 +636,5 @@ namespace ForestFire_Clean
         }
     }
 }
+
 
