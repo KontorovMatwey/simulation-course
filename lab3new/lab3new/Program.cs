@@ -58,10 +58,10 @@ namespace ForestFire_Clean
 
         // Параметры модели
         public double BaseIgnitionFromNeighbor = 0.28;
-        public double BaseGrowthProb = 0.0012; // понижен рост (медленнее)
+        public double BaseGrowthProb = 0.0012;
         public double BurntFertilityBonus = 0.28;
-        public int SeedlingTicks = 20;    // было 6 -> 20
-        public int YoungTicks = 200;      // было 40 -> 200
+        public int SeedlingTicks = 20;
+        public int YoungTicks = 200;
         public int MaxBurnTimeBase = 3;
         public int MaxBurnExtra = 5;
 
@@ -70,7 +70,7 @@ namespace ForestFire_Clean
         public double OldDeathChancePerTick = 0.002; // шанс умереть в тик после достижения OldMaxAgeTicks (0.2%)
 
         // Фоновые поджоги
-        private double spontaneousBase = 4e-7; // уменьшено
+        private double spontaneousBase = 4e-7; // низкие
 
         // Влажность / влияния
         private const double fireImpact = 0.28;
@@ -638,3 +638,4 @@ namespace ForestFire_Clean
         }
     }
 }
+
