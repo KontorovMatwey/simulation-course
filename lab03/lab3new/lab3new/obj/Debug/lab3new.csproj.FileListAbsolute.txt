@@ -1,0 +1,9 @@
+D:\учёба\lab3new\lab3new\obj\Debug\lab3new.csproj.AssemblyReference.cache
+D:\учёба\lab3new\lab3new\obj\Debug\lab3new.Properties.Resources.resources
+D:\учёба\lab3new\lab3new\obj\Debug\lab3new.csproj.GenerateResource.cache
+D:\учёба\lab3new\lab3new\obj\Debug\lab3new.csproj.CoreCompileInputs.cache
+D:\учёба\lab3new\lab3new\bin\Debug\lab3new.exe.config
+D:\учёба\lab3new\lab3new\bin\Debug\lab3new.exe
+D:\учёба\lab3new\lab3new\bin\Debug\lab3new.pdb
+D:\учёба\lab3new\lab3new\obj\Debug\lab3new.exe
+D:\учёба\lab3new\lab3new\obj\Debug\lab3new.pdb
