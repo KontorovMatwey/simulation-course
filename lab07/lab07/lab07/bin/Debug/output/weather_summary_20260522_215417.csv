@@ -1,0 +1,18 @@
+metric,state,values
+days,,90
+start_month,,2026-05
+count,Ясно,16
+count,Перем. облачность,19
+count,Облачно,25
+count,Пасмурно,16
+count,Дождь,14
+empirical,Ясно,0.177778
+empirical,Перем. облачность,0.211111
+empirical,Облачно,0.277778
+empirical,Пасмурно,0.177778
+empirical,Дождь,0.155556
+stationary,Ясно,0.152666
+stationary,Перем. облачность,0.215813
+stationary,Облачно,0.263760
+stationary,Пасмурно,0.223721
+stationary,Дождь,0.144040
