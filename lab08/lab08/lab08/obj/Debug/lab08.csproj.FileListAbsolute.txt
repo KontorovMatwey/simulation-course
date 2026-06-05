@@ -1,0 +1,9 @@
+D:\ucheba\lab08\lab08\bin\Debug\lab08.exe.config
+D:\ucheba\lab08\lab08\bin\Debug\lab08.exe
+D:\ucheba\lab08\lab08\bin\Debug\lab08.pdb
+D:\ucheba\lab08\lab08\obj\Debug\lab08.csproj.AssemblyReference.cache
+D:\ucheba\lab08\lab08\obj\Debug\lab08.Properties.Resources.resources
+D:\ucheba\lab08\lab08\obj\Debug\lab08.csproj.GenerateResource.cache
+D:\ucheba\lab08\lab08\obj\Debug\lab08.csproj.CoreCompileInputs.cache
+D:\ucheba\lab08\lab08\obj\Debug\lab08.exe
+D:\ucheba\lab08\lab08\obj\Debug\lab08.pdb
