@@ -1,0 +1,9 @@
+D:\ucheba\lab10\lab10\bin\Debug\lab10.exe.config
+D:\ucheba\lab10\lab10\bin\Debug\lab10.exe
+D:\ucheba\lab10\lab10\bin\Debug\lab10.pdb
+D:\ucheba\lab10\lab10\obj\Debug\lab10.csproj.AssemblyReference.cache
+D:\ucheba\lab10\lab10\obj\Debug\lab10.Properties.Resources.resources
+D:\ucheba\lab10\lab10\obj\Debug\lab10.csproj.GenerateResource.cache
+D:\ucheba\lab10\lab10\obj\Debug\lab10.csproj.CoreCompileInputs.cache
+D:\ucheba\lab10\lab10\obj\Debug\lab10.exe
+D:\ucheba\lab10\lab10\obj\Debug\lab10.pdb
