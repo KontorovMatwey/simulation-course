@@ -1,9 +1,0 @@
-D:\учёба\lab09\lab09\bin\Debug\lab09.exe.config
-D:\учёба\lab09\lab09\bin\Debug\lab09.exe
-D:\учёба\lab09\lab09\bin\Debug\lab09.pdb
-D:\учёба\lab09\lab09\obj\Debug\lab09.csproj.AssemblyReference.cache
-D:\учёба\lab09\lab09\obj\Debug\lab09.Properties.Resources.resources
-D:\учёба\lab09\lab09\obj\Debug\lab09.csproj.GenerateResource.cache
-D:\учёба\lab09\lab09\obj\Debug\lab09.csproj.CoreCompileInputs.cache
-D:\учёба\lab09\lab09\obj\Debug\lab09.exe
-D:\учёба\lab09\lab09\obj\Debug\lab09.pdb
